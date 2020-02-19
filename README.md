@@ -1,2 +1,1 @@
-# jaccos
-jaccos projekt
+"Fejti Martin, W1QRFA" 
