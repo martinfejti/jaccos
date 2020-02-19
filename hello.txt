@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "asdasdadasd" 
+=======
+"negyedik change" 
+>>>>>>> 843fb247bab076f03c7144554d077bd129a6c08f
